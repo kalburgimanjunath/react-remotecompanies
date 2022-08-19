@@ -8,11 +8,10 @@ export default function App() {
         className="markdown-body entry-content container-lg"
         itemprop="text"
       >
-        <h2>
+        <h2 style={{ textAlign: 'center' }}>
           Here is a list of semi to fully remote-friendly companies in or around
           tech.
         </h2>
-        <h2 dir="auto">Companies</h2>
         <div className="table-responsive">
           <table className="table table-hover">
             <thead>
