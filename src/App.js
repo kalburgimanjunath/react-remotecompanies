@@ -9915,6 +9915,7 @@ export default function App() {
           ></div>
         </div>
       </article>
+      <div id="disqus_thread"></div>
     </div>
   );
 }
